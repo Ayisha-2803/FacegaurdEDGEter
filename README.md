@@ -201,15 +201,6 @@ python evaluate.py --model mobilefacenet.tflite
 
 ---
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
-All AI models retain their original licenses (Apache 2.0).
-All training datasets retain their original licenses (CC BY 4.0 for VGGFace2).
-
----
-
 ## 🙏 Acknowledgements
 
 - [MediaPipe](https://github.com/google/mediapipe) — BlazeFace & FaceMesh
