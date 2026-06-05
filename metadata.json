@@ -1,0 +1,6 @@
+{
+  "name": "FaceGuard Edge Terminal",
+  "description": "On-Device 3D Facial Recognition and Liveness Protection Security Terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
